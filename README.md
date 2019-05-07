@@ -1,12 +1,12 @@
 # Objetivo
 
-Esse projeto foi criado para compreender as estruturas dos arquivos. Removendo vários componentes, mantendo a página de Botões e alguns componentes para organização e formatação.
+Esse projeto foi criado para compreender as estruturas dos arquivos. Removendo vários componentes, mantendo a página com gráficos e alguns componentes para organização e formatação.
 
 ## Estrutura dos arquivos
 
-Dentro de Botao-React encontrará os seguintes arquivos.
+Dentro de Grafico-React encontrará os seguintes arquivos.
 ```
-Botao-React
+Grafico-React
 │
 ├── public
 │   ├──apple-icon.png
